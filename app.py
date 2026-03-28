@@ -32,3 +32,4 @@ Added basic error handling note
 Small code cleanup and formatting
 Small code cleanup and formatting
 Improved variable naming
+Improved variable naming
