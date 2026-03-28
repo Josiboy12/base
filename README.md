@@ -47,3 +47,4 @@ Added comment for better readability - 15:34:36
 Improved variable naming
 Added basic error handling note
 Added new helper comment
+Minor refactor for clarity
