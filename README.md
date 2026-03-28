@@ -12,3 +12,4 @@ Improved variable naming
 Improved variable naming
 Minor refactor for clarity
 Added comment for better readability - 15:25:42
+Updated function documentation
