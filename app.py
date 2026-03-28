@@ -9,3 +9,4 @@ Fixed small typo in comment
 Updated project description
 Added TODO for future feature
 Minor refactor for clarity
+Added basic error handling note
