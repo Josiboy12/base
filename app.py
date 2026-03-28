@@ -27,3 +27,4 @@ Updated function documentation
 Minor refactor for clarity
 Added TODO for future feature
 Improved variable naming
+Added comment for better readability - 15:34:24
