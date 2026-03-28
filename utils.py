@@ -22,3 +22,4 @@ Fixed small typo in comment
 Fixed small typo in comment
 Updated project description
 Added new helper comment
+Updated project description
