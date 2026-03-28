@@ -21,3 +21,4 @@ Added basic error handling note
 Fixed small typo in comment
 Added basic error handling note
 Added TODO for future feature
+Added comment for better readability - 15:30:48
