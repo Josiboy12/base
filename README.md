@@ -21,3 +21,4 @@ Minor refactor for clarity
 Improved variable naming
 Added TODO for future feature
 Added TODO for future feature
+Added basic error handling note
