@@ -28,3 +28,4 @@ Added TODO for future feature
 Fixed small typo in comment
 Added basic error handling note
 Added TODO for future feature
+Improved variable naming
