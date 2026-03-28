@@ -7,3 +7,4 @@ Updated project description
 Updated function documentation
 Improved variable naming
 Small code cleanup and formatting
+Minor refactor for clarity
