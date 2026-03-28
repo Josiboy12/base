@@ -26,3 +26,4 @@ Updated project description
 Minor refactor for clarity
 Updated function documentation
 Updated project description
+Minor refactor for clarity
