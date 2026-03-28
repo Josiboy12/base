@@ -37,3 +37,4 @@ Added new helper comment
 Updated project description
 Added new helper comment
 Fixed small typo in comment
+Small code cleanup and formatting
