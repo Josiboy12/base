@@ -6,3 +6,4 @@ Added basic error handling note
 Added basic error handling note
 Added comment for better readability - 15:24:08
 Updated project description
+Fixed small typo in comment
