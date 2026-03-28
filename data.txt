@@ -20,3 +20,4 @@ Minor refactor for clarity
 Fixed small typo in comment
 Updated project description
 Minor refactor for clarity
+Fixed small typo in comment
