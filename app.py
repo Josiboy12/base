@@ -35,3 +35,4 @@ Improved variable naming
 Improved variable naming
 Small code cleanup and formatting
 Updated project description
+Minor refactor for clarity
