@@ -17,3 +17,4 @@ Added TODO for future feature
 Updated function documentation
 Added TODO for future feature
 Updated function documentation
+Added basic error handling note
