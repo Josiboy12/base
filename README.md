@@ -26,3 +26,4 @@ Added comment for better readability - 15:28:04
 Updated project description
 Added basic error handling note
 Updated project description
+Small code cleanup and formatting
