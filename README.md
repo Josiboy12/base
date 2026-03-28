@@ -23,3 +23,4 @@ Added TODO for future feature
 Added TODO for future feature
 Added basic error handling note
 Added comment for better readability - 15:28:04
+Updated project description
