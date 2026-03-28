@@ -38,3 +38,4 @@ Updated project description
 Added new helper comment
 Added comment for better readability - 15:32:59
 Added TODO for future feature
+Fixed small typo in comment
