@@ -36,3 +36,4 @@ Improved variable naming
 Small code cleanup and formatting
 Updated project description
 Minor refactor for clarity
+Added basic error handling note
