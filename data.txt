@@ -8,3 +8,4 @@ Added new helper comment
 Updated project description
 Fixed small typo in comment
 Fixed small typo in comment
+Added basic error handling note
