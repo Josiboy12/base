@@ -28,3 +28,4 @@ Added basic error handling note
 Updated project description
 Small code cleanup and formatting
 Added comment for better readability - 15:28:48
+Small code cleanup and formatting
