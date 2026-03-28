@@ -50,3 +50,4 @@ Updated function documentation
 Small code cleanup and formatting
 Small code cleanup and formatting
 Small code cleanup and formatting
+Minor refactor for clarity
