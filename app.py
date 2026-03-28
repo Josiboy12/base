@@ -29,3 +29,4 @@ Added TODO for future feature
 Improved variable naming
 Added comment for better readability - 15:34:24
 Added basic error handling note
+Small code cleanup and formatting
