@@ -41,3 +41,4 @@ Small code cleanup and formatting
 Added TODO for future feature
 Added TODO for future feature
 Added TODO for future feature
+Fixed small typo in comment
