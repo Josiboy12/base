@@ -50,3 +50,4 @@ Fixed small typo in comment
 Fixed small typo in comment
 Small code cleanup and formatting
 Fixed small typo in comment
+Added basic error handling note
