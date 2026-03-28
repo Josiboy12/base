@@ -36,3 +36,4 @@ Added new helper comment
 Small code cleanup and formatting
 Updated project description
 Added new helper comment
+Added comment for better readability - 15:32:59
