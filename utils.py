@@ -8,3 +8,4 @@ Added comment for better readability - 15:24:08
 Updated project description
 Fixed small typo in comment
 Improved variable naming
+Minor refactor for clarity
