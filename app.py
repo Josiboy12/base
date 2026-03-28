@@ -39,3 +39,4 @@ Minor refactor for clarity
 Added basic error handling note
 Added basic error handling note
 Updated project description
+Added comment for better readability - 15:39:46
