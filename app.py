@@ -14,3 +14,4 @@ Minor refactor for clarity
 Added TODO for future feature
 Added comment for better readability - 15:27:43
 Added TODO for future feature
+Updated function documentation
