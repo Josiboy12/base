@@ -31,3 +31,4 @@ Added comment for better readability - 15:34:24
 Added basic error handling note
 Small code cleanup and formatting
 Small code cleanup and formatting
+Improved variable naming
