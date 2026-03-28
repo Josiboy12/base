@@ -32,3 +32,4 @@ Small code cleanup and formatting
 Minor refactor for clarity
 Added TODO for future feature
 Improved variable naming
+Added new helper comment
